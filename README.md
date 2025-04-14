@@ -5,7 +5,7 @@ Senior Cloud Engineer with nearly two decades of experience in the intersection 
 - Personal and Professional AI projects
 
 ### 🌱 I’m currently learning:
-- AI Agents with Hugging Face [https://huggingface.co/learn/agents-course/unit0/introduction] 
+- AI Agents with Hugging Face https://huggingface.co/learn/agents-course/unit0/introduction
 
 ### 👯 I’m looking to collaborate on:
 - AI assistants that solve real business problems in enterprise environments
@@ -34,7 +34,7 @@ Senior Cloud Engineer with nearly two decades of experience in the intersection 
 - Mentoring teams through technological transformation
 
 ### 📫 How to reach me:
-- Connect with me on LinkedIn: [https://www.linkedin.com/in/cerisaac/]
+- Connect with me on LinkedIn: (https://www.linkedin.com/in/cerisaac/)
 
 ### ⚡ Fun fact: 
 - I love to travel and adventure across North America with my family, my dogs and my Jeep. 
