@@ -1,5 +1,5 @@
 ## Hi there 👋
-Senior Cloud Engineer with nearly two decades of experience in the intersection of cloud architecture, AI, and automation. Bridging traditional enterprise infrastructure with cutting-edge technologies, I build resilient multi-cloud solutions (Azure, AWS, Oracle) with Infrastructure as Code and implement AI assistants that deliver measurable business impact. Passionate about mentoring teams through technological transformation and continuously expanding my expertise in responsible AI development.
+Senior Cloud Engineer with nearly two decades of experience in the intersection of cloud architecture, AI, and automation. Bridging traditional enterprise infrastructure with cutting-edge technologies, I build resilient multi-cloud solutions (Azure, AWS) with Infrastructure as Code and implement AI solutions that deliver measurable business impact. Passionate about mentoring teams through technological transformation and continuously expanding my expertise in responsible AI development.
 
 ### 🔭 I’m currently working on:
 - Personal and Professional AI projects
