@@ -34,7 +34,7 @@ Senior Cloud Engineer with nearly two decades of experience in the intersection 
 - Mentoring teams through technological transformation
 
 ### 📫 How to reach me:
-- Connect with me on LinkedIn: (https://www.linkedin.com/in/cerisaac/)
+- Connect with me on LinkedIn: https://www.linkedin.com/in/cerisaac/
 
 ### ⚡ Fun fact: 
 - I love to travel and adventure across North America with my family, my dogs and my Jeep. 
